@@ -1,8 +1,8 @@
 import "../global.css";
 
 export const metadata = {
-  title: "ABDERT_TEST",
-  description: "ABDERT_TEST",
+  title: "ADBERT_TEST",
+  description: "ADBERT_TEST",
 };
 
 export default function RootLayout({ children }) {
